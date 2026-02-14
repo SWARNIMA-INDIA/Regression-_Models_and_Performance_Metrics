@@ -1,2 +1,1 @@
-# Regression-_Models_and_Performance_Metrics
-Supervised Learning: Regression  Models and Performance Metrics
+This repository contains solutions for supervised learning regression concepts, including Simple Linear Regression, Logistic Regression, evaluation metrics, and Python implementations using scikit-learn. It explains models, assumptions, equations, and performance metrics clearly.
